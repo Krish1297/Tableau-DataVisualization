@@ -62,3 +62,7 @@ Steps to Build the Dashboard:
 10.	Publish and Share
 
 Following these steps, you can create a comprehensive Tableau Dashboard that enables users to explore India's air pollution levels and environmental policy changes.
+
+My Tableau Dashboard for this project:
+
+[https://public.tableau.com/app/profile/krishnamoorthy.juttoo.chandrasekaran/viz/SolutionWeek7/Dashboard1](https://public.tableau.com/views/IndiaAirQualityData-Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/IndiaAirQualityData-Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
